@@ -1,0 +1,9 @@
+match_id,date,stage_name,home_team,away_team,prob_home_win_pct,prob_draw_pct,prob_away_win_pct,predicted_result
+65,2026-06-28,Group Stage,Norway,France,1.84,1.71,96.44,Gana France
+66,2026-06-28,Group Stage,Senegal,Iraq,53.34,45.07,1.59,Gana Senegal
+67,2026-06-28,Group Stage,Jordan,Argentina,1.05,1.1,97.85,Gana Argentina
+68,2026-06-28,Group Stage,Algeria,Austria,45.03,23.81,31.16,Gana Algeria
+69,2026-06-29,Group Stage,Colombia,Portugal,17.03,4.1,78.87,Gana Portugal
+70,2026-06-29,Group Stage,Congo DR,Uzbekistan,59.57,21.59,18.84,Gana Congo DR
+71,2026-06-29,Group Stage,Panama,England,0.54,1.83,97.63,Gana England
+72,2026-06-29,Group Stage,Croatia,Ghana,37.94,59.58,2.49,Empate
